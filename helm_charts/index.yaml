@@ -25,7 +25,7 @@ entries:
     sources:
     - https://github.com/aws/eks-charts
     urls:
-    - https://riskfocus.github.io/rfac-infra-foundation/helm_charts/aws-load-balancer-controller-1.4.8.tgz
+    - https://riskfocus.github.io/rfac-terraform-repo/helm_charts/aws-load-balancer-controller-1.4.8.tgz
     version: 1.4.8
   jenkins:
   - annotations:
@@ -70,6 +70,6 @@ entries:
     - https://github.com/maorfr/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - https://riskfocus.github.io/rfac-infra-foundation/helm_charts/jenkins-4.3.8.tgz
+    - https://riskfocus.github.io/rfac-terraform-repo/helm_charts/jenkins-4.3.8.tgz
     version: 4.3.8
 generated: "2023-04-10T14:43:01.933357073+03:00"
